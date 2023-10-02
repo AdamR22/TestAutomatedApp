@@ -1,7 +1,7 @@
 pipeline {
     agent any
     
-    stages {
+    steps {
         stage("Test if pipeline is working") {
             sh """pwd"""
         }
