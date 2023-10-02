@@ -1,9 +1,11 @@
 pipeline {
     agent any
     
-    steps {
+    stages {
         stage("Test if pipeline is working") {
-            sh """pwd"""
+            steps {
+                sh """pwd"""
+            }
         }
     }
 }
