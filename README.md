@@ -1,3 +1,3 @@
 # TestAutomatedApp
 
-Sample flask app for testing jenkins intergration.
+Sample flask app for testing jenkins intergration
