@@ -2,4 +2,4 @@
 
 Sample flask app for testing jenkins intergration.
 
-Trigger a new build using api gateway.
+Trigger a new build using api gateway and lambda.
